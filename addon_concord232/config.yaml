@@ -10,6 +10,7 @@ arch:
   - armv7
   - armhf
 init: false
+uart: true
 ports:
   5007/tcp: 5007
 ports_description:
